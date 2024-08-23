@@ -1,6 +1,6 @@
 {
-  "short_name": "Deevan Unisex Salon",
-  "name": "Deevan Unisex Salon",
+  "short_name": "Vishal Event & Decoration Point",
+  "name": "Vishal Event & Decoration Point",
   "icons": [
     {
       "src": "logo16.png",
@@ -25,7 +25,8 @@
     {
       "src": "logo192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "maskable"
     },
     {
       "src": "logo512.png",
