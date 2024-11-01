@@ -8,7 +8,7 @@ const WebShare = () => {
     if (navigator.share) {
       navigator.share({
         title: document.title,
-        url: encodeURIComponent(`https://${dataSetForBasicData.MainHositingName}/${dataSetForBasicData.FolderName}`),
+        url:(`https://${dataSetForBasicData.MainHositingName}/${dataSetForBasicData.FolderName}`),
       })
         .then(() => alert('Data was shared successfully'))
         .catch((error) => console.error('Error sharing:', error));

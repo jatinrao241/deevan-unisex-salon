@@ -316,6 +316,7 @@ const MainPageData = () => {
                   <a
                     href={dataSetForBasicData.AddToContact}
                     className="btn button-color"
+                    download
                   >
                     Add Contact
                   </a>
@@ -656,15 +657,15 @@ const MainPageData = () => {
                 </a>
               </div>
             </div>
-            <div className="row worldrisetech pb-4">
+            <div className="row dizidesert pb-4">
               <div className="col-12 text-center pt-3">
-                <a href="https://worldrisetech.com/">
+                <a href="https://dizidesert.in/">
                   <span className="created-by">Created By</span>
                   <img
                     src={AllTimeAccess.CreatedByLogoImage}
                     alt="dizilogo"
-                    height="80px"
-                    width="220px"
+                    height="60px"
+                    width="200px"
                   />
                 </a>
               </div>
