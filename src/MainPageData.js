@@ -659,7 +659,7 @@ const MainPageData = () => {
             </div>
             <div className="row dizidesert pb-4">
               <div className="col-12 text-center pt-3">
-                <a href="https://dizidesert.in/">
+                <a href="https://dizidesert.com/">
                   <span className="created-by">Created By</span>
                   <img
                     src={AllTimeAccess.CreatedByLogoImage}
