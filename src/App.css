@@ -377,6 +377,21 @@ a{
   animation: digitalformlinkhighlight 6s infinite ease-in-out;
 }
 
+@keyframes digitalformlinkhighlight {
+  0% {
+    background-position: 200% 0;
+  }
+  20% {
+    background-position: 50% 0;
+  }
+  40% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
 .contact-section .contact-button .button-color:hover,
 .contact-section .contact-button .button-color:focus {
   box-shadow: none;
@@ -916,22 +931,6 @@ a i:hover {
   }
   100% {
       padding-top: 5px;
-  }
-}
-
-
-@keyframes digitalformlinkhighlight {
-  0% {
-    background-position: 200% 0;
-  }
-  20% {
-    background-position: 50% 0;
-  }
-  40% {
-    background-position: -200% 0;
-  }
-  100% {
-    background-position: -200% 0;
   }
 }
 
