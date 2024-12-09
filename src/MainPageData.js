@@ -318,7 +318,7 @@ const MainPageData = () => {
                     className="btn button-color"
                     download
                   >
-                    Add Contact
+                    <i class="fa-regular fa-address-card"></i> Add Contact
                   </a>
                 </div>
                 <div className="col-md-3 col-6 mt-2">
