@@ -39,7 +39,7 @@ const InstallAppButton = () => {
     <div>
       {/* Your app content goes here */}
       {isInstallable && (
-        <button onClick={handleInstallApp} className="btn button-color"><i className="fa-solid fa-download"></i> Install App</button>
+        <button onClick={handleInstallApp} className="btn button-color"><span><i className="fa-solid fa-download"></i> Install App</span></button>
       )}
     </div>
   );
