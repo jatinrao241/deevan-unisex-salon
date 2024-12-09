@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/deevan-unisex-salon/static/css/main.bbdf1b27.css",
-    "main.js": "/deevan-unisex-salon/static/js/main.08dbb423.js",
+    "main.css": "/deevan-unisex-salon/static/css/main.92a8c23e.css",
+    "main.js": "/deevan-unisex-salon/static/js/main.c8243f8d.js",
     "static/media/video-5.mp4": "/deevan-unisex-salon/static/media/video-5.93c395b1f9687d94b209.mp4",
     "static/media/video-1.mp4": "/deevan-unisex-salon/static/media/video-1.cc0f5594ff01650e35ad.mp4",
     "static/media/video-3.mp4": "/deevan-unisex-salon/static/media/video-3.20f5bd89ef2f50ca44f7.mp4",
@@ -51,11 +51,11 @@
     "static/media/feedbackicon.webp": "/deevan-unisex-salon/static/media/feedbackicon.e5e7f9520b6e2c1f7f93.webp",
     "index.html": "/deevan-unisex-salon/index.html",
     "static/media/stars.webp": "/deevan-unisex-salon/static/media/stars.8368c1750c9456830ea6.webp",
-    "main.bbdf1b27.css.map": "/deevan-unisex-salon/static/css/main.bbdf1b27.css.map",
-    "main.08dbb423.js.map": "/deevan-unisex-salon/static/js/main.08dbb423.js.map"
+    "main.92a8c23e.css.map": "/deevan-unisex-salon/static/css/main.92a8c23e.css.map",
+    "main.c8243f8d.js.map": "/deevan-unisex-salon/static/js/main.c8243f8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbdf1b27.css",
-    "static/js/main.08dbb423.js"
+    "static/css/main.92a8c23e.css",
+    "static/js/main.c8243f8d.js"
   ]
 }
